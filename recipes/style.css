@@ -1,0 +1,42 @@
+.gradient {
+    background-image: linear-gradient(270deg, rgba(217, 247, 51, 0.5), rgba(18, 211, 44, 0.6));
+  }
+  .gradient1 {
+    background-image: linear-gradient(270deg, rgba(0, 0, 0, 0.99), rgba(255, 241, 40, 0.99));
+  }
+
+  
+.h1class {
+    text-align: center;
+    color: orangered;
+    font-family: Helvetica, Courier, sans-serif, monospace;
+    
+}
+.h2class {
+    font-size: 19px;
+    font-family: Arial, 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;  
+}
+
+.h3class {
+    font-size: 19px;
+    color: orangered;
+    font-family: Arial, 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.img1 {
+  border: 2px solid #0d0d0e;
+}
+
+.list1 {
+  font-size: 1.5em;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 400;
+  color: orange;
+}
+
+.list2{
+    font-size: medium;
+    font-family: Tahoma, sans-serif;
+    ;
+}
+ 
