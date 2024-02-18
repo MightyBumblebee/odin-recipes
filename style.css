@@ -4,13 +4,20 @@
   
 .h1class {
     text-align: center;
-    color: red;
+    color: rgb(131, 13, 13);
     font-family: Arial, Courier, monospace;
     
 }
 
+img {
+  display: inline;
+}
+
+
 .img1 {
-  border: 5px solid #555;
+  border: 5px solid #054108;
+  width: 325px;
+  margin-top: 10px;
 }
 
 .list1 {
@@ -18,8 +25,44 @@
   font-family: Arial, Helvetica, sans-serif;
   font-weight: 400;
   color: orange;
+  list-style: none;
+  
+  
 }
 
 .list2 {
-  color: orangered
+  color: orangered;
+  display: inline-block;
+  border: solid 1px black;
+  background-color: indigo;
+  padding: 5px;
+  margin: 5px;
+  margin-top: 50px;
+  vertical-align: bottom;
+
+  
+}
+
+.link-container {
+  display: inline-block;
+
+}
+
+.main_style {
+  margin: 10px;
+  padding: 10px;
+  box-sizing: content-box;
+}
+
+a {
+  text-decoration: none;
+}
+
+.watermark {
+  font-size: 512px;
+  color: rgba(33, 207, 126, 0.205);
+  padding: 0;
+  margin: -500px;
+  text-align: center;
+
 }
