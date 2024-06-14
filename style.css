@@ -1,0 +1,42 @@
+
+h1 {
+    border: 2px solid darkgreen;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+}
+
+img {
+    border: solid 2px darkgreen;
+    margin: 10px 10px 0px 10px;
+    width: 300px;
+    display: inline-block;
+}
+
+.main{
+    display: flex;
+}
+
+.layout {
+    display: inline-block;
+    padding: 10px;
+    margin-top: -100px;
+
+}
+
+
+ul {
+    list-style: none;
+    display: inline-block;
+    width: 300px;
+}
+
+li {
+    border: solid 2px darkgreen;
+    margin: 5px;
+    background-color: lightgreen;
+    text-align: center;
+    padding: 15px;
+
+}
+

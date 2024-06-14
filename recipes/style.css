@@ -1,0 +1,45 @@
+* {
+    line-height: 1.5;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: rgb(231, 205, 205);
+}
+
+img {
+    display: inline-block;
+}
+
+h1 {
+    margin-right: 675px;
+    text-align: center;
+}
+
+.main {
+    padding: 10px;
+}
+
+.layout {
+    display: inline-block;
+    
+}
+
+.text {
+    display: inline-block;
+    border: 1px solid black;
+    margin: 20px;
+    padding: 10px;
+}
+
+
+ul, ol {
+    list-style-type: none;
+}
+
+.text1 {
+    margin: 10px;
+}
+
+li {
+    margin: 5px;
+}
